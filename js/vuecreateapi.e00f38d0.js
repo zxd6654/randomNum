@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["vuecreateapi"],{8355:function(e,t,n){"use strict";n.r(t);var o=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[e._v("已经按照api的写法构建，但是一直报错")])},i=[],a={mounted:function(){this.$createDirectiveDialog({$props:{title:"Hello",content:"I am from a vue component"}}).show()}},c=a,l=n("2877"),r=Object(l["a"])(c,o,i,!1,null,null,null);t["default"]=r.exports}}]);
+//# sourceMappingURL=vuecreateapi.e00f38d0.js.map
